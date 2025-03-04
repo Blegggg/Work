@@ -28,7 +28,7 @@ Bazinfa
 
 Produce a detailed proposal for a digital solution that you would develop to meet the needs of the scenario, should provide a rationale for the solution and include:
 
-1- the business context
+1- the business context - SWOT anaylsis and stakeholder shenanigans go in this section
 
 2- the functional and non functional requirements of the solution
 
